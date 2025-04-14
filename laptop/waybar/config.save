@@ -1,0 +1,159 @@
+{
+    "position": "top",
+    "margin-top": 0,
+    "margin-left": 0,
+    "margin-right": 0,
+    "height": 30,
+    "modules-left": [
+        "clock",
+        "custom/separator",
+        "hyprland/workspaces",
+        "custom/separator",
+        "wlr/taskbar"
+    ],
+    "modules-center": [
+        "hyprland/window"
+    ],
+    "modules-right": [
+        "tray",
+        "custom/separator",
+        "hyprland/language",
+        "custom/separator",
+        "pulseaudio",
+        "cpu",
+        "memory",
+        "network",
+        "temperature",
+        "custom/separator",
+        "custom/exit"
+    ],
+    "hyprland/window": {
+        "format": "{}",
+        "max-length": 35,
+        "rewrite": {
+            "": "Hyprland"
+        },
+        "separate-outputs": true
+    },
+    "custom/separator": {
+        "format": "|",
+        "interval": 3600,
+        "tooltip": false
+    },
+    "tray": {
+        "icon-size": 21,
+        "spacing": 10
+    },
+    "wlr/taskbar": {
+        "format": "{icon}",
+        "icon-size": 18,
+        "tooltip-format": "{title}",
+        "on-click": "activate",
+        "on-click-middle": "close",
+        "ignore-list": [
+            "Alacritty"
+        ],
+        "app_ids-mapping": {
+            "firefoxdeveloperedition": "firefox-developer-edition"
+        },
+        "rewrite": {
+            "Firefox Web Browser": "Firefox",
+            "Foot Server": "Terminal"
+        }
+    },
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "on-click": "activate",
+        "format-icons": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10"
+        },
+        "sort-by-number": true,
+        "persistent-workspaces": {
+            "HDMI-A-1": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "DP-1": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    },
+    "clock": {
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{:%Y-%m-%d}"
+    },
+    "cpu": {
+        "format": " {usage}%",
+        "tooltip": false
+    },
+    "memory": {
+        "format": " {used}Gb",
+        "tooltip-format": "Available {avail}Gb"
+    },
+    "temperature": {
+        "thermal-zone": 0,
+        "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+        "critical-threshold": 80,
+        "interval": 5,
+        "format": "{icon} {temperatureC}°C",
+        "format-icons": [
+            "",
+            "",
+            ""
+        ],
+        "on-click": "psensor"
+    },
+    "hyprland/language": {
+        "format": "{short}"
+    },
+    "network": {
+        "format-wifi": "  {signalStrength}%",
+        "format-ethernet": "",
+        "tooltip-format": "{ifname} via {gwaddr} ",
+        "format-linked": "{ifname} (No IP) ",
+        "format-disconnected": " ⚠ ",
+        "format-alt": "{ifname}: {ipaddr}/{cidr}"
+    },
+    "custom/exit": {
+        "format": "",
+        "on-click": "wlogout",
+        "tooltip": false
+    },
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "on-click": "pavucontrol"
+    }
+}
+

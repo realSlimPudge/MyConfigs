@@ -1,0 +1,239 @@
+[2024-11-12 11:37:47.199] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:37:47.200] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:37:47.200] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:37:47.207] [info] Hyprland IPC starting
+[2024-11-12 11:37:47.208] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:37:47.208] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:37:47.232] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:37:47.232] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:37:47.520] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:37:47.520] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:38:10.267] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:38:10.268] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:38:10.268] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:38:10.276] [info] Hyprland IPC starting
+[2024-11-12 11:38:10.277] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:38:10.277] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:38:10.299] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:38:10.299] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:38:10.539] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:38:10.539] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:38:26.478] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:38:26.479] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:38:26.479] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:38:26.489] [info] Hyprland IPC starting
+[2024-11-12 11:38:26.489] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:38:26.489] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:38:26.513] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:38:26.513] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:38:26.753] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:38:26.753] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:39:30.328] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:39:30.328] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:39:30.328] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:39:30.337] [info] Hyprland IPC starting
+[2024-11-12 11:39:30.338] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:39:30.338] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:39:30.360] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:39:30.361] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:39:30.602] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:39:30.602] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:39:56.485] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:39:56.486] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:39:56.486] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:39:56.494] [info] Hyprland IPC starting
+[2024-11-12 11:39:56.495] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:39:56.495] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:39:56.518] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:39:56.519] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:39:56.751] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:39:56.751] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:46:36.964] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:46:36.965] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:46:36.965] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:46:36.972] [info] Hyprland IPC starting
+[2024-11-12 11:46:36.973] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:46:36.973] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:46:37.004] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:46:37.004] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:46:37.244] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:46:37.245] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:46:59.513] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:46:59.514] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:46:59.514] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:46:59.521] [info] Hyprland IPC starting
+[2024-11-12 11:46:59.523] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:46:59.523] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:46:59.547] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:46:59.547] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:46:59.784] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:46:59.784] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:47:46.573] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:47:46.574] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:47:46.574] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:47:46.583] [info] Hyprland IPC starting
+[2024-11-12 11:47:46.584] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:47:46.584] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:47:46.607] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:47:46.607] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:47:46.840] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:47:46.840] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:48:07.276] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:48:07.277] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:48:07.277] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:48:07.284] [info] Hyprland IPC starting
+[2024-11-12 11:48:07.285] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:48:07.286] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:48:07.311] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:48:07.311] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:48:07.557] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:48:07.558] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:48:18.143] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:48:18.144] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:48:18.144] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:48:18.152] [info] Hyprland IPC starting
+[2024-11-12 11:48:18.152] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:48:18.152] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:48:18.175] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:48:18.176] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:48:18.423] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:48:18.423] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:49:11.089] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:49:11.090] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:49:11.090] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:49:11.099] [info] Hyprland IPC starting
+[2024-11-12 11:49:11.099] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:49:11.100] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:49:11.123] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:49:11.124] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:49:11.364] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:49:11.364] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:50:21.659] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:50:21.660] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:50:21.660] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:50:21.662] [error] style.css:10:19'backdrop-filter' is not a valid property name
+[2024-11-12 11:50:30.287] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:50:30.288] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:50:30.288] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:50:30.296] [info] Hyprland IPC starting
+[2024-11-12 11:50:30.296] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:50:30.296] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:50:30.322] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:50:30.322] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:50:30.561] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:50:30.561] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12T08:57:18] [ERR] nvctrl: Failed to retrieve NVIDIA information.
+
+(psensor:9559): Gtk-CRITICAL **: 11:57:18.823: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+[(null)] [INFO] BCM2835: The BCM2835 has not been detected.
+[2024-11-12 11:59:32.459] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:59:32.460] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:59:32.460] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:59:32.467] [info] Hyprland IPC starting
+[2024-11-12 11:59:32.468] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:59:32.468] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:59:32.491] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:59:32.491] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:59:32.798] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:59:32.798] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 11:59:50.747] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 11:59:50.748] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 11:59:50.748] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 11:59:50.757] [info] Hyprland IPC starting
+[2024-11-12 11:59:50.758] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:59:50.758] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:59:50.783] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 11:59:50.783] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 11:59:51.038] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 11:59:51.038] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 12:00:22.313] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 12:00:22.314] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 12:00:22.314] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 12:00:22.314] [error] style.css:14:19'backdrop-filter' is not a valid property name
+[2024-11-12 12:00:28.206] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 12:00:28.208] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 12:00:28.208] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 12:00:28.216] [info] Hyprland IPC starting
+[2024-11-12 12:00:28.217] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:00:28.217] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:00:28.247] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:00:28.247] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:00:28.502] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 12:00:28.502] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 12:05:17.374] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 12:05:17.375] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 12:05:17.375] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 12:05:17.384] [info] Hyprland IPC starting
+[2024-11-12 12:05:17.384] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:05:17.384] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:05:17.407] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:05:17.407] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:05:17.662] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 12:05:17.662] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 12:05:28.324] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 12:05:28.326] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 12:05:28.326] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 12:05:28.334] [info] Hyprland IPC starting
+[2024-11-12 12:05:28.334] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:05:28.335] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:05:28.361] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:05:28.361] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:05:28.619] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 12:05:28.619] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 12:06:42.216] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-11-12 12:06:42.217] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:06:42.217] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:06:42.217] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-11-12 12:06:42.218] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:06:42.218] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:07:13.528] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 12:07:13.528] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 12:07:13.529] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 12:07:13.537] [info] Hyprland IPC starting
+[2024-11-12 12:07:13.538] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:07:13.539] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:07:13.564] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:07:13.564] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:07:13.814] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 12:07:13.814] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12 12:07:39.200] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2024-11-12 12:07:39.201] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2024-11-12 12:07:39.201] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2024-11-12 12:07:39.208] [info] Hyprland IPC starting
+[2024-11-12 12:07:39.209] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:07:39.209] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:07:39.233] [info] Loading persistent workspaces from Waybar config
+[2024-11-12 12:07:39.233] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-11-12 12:07:39.496] [info] Bar configured (width: 1900, height: 28) for output: HDMI-A-1
+[2024-11-12 12:07:39.496] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2024-11-12T09:09:30] [ERR] nvctrl: Failed to retrieve NVIDIA information.
+
+(psensor:11143): Gtk-CRITICAL **: 12:09:30.100: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+[(null)] [INFO] BCM2835: The BCM2835 has not been detected.
+
+(pavucontrol:11191): Gtk-WARNING **: 12:09:59.910: Theme parser error: gtk.css:93:11-12: Expected a filter
+[2025-03-27 20:37:55.881] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2025-03-27 20:37:55.884] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-03-27 20:37:55.884] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2025-03-27 20:37:55.894] [info] Hyprland IPC starting
+[2025-03-27 20:37:55.894] [info] Loading persistent workspaces from Waybar config
+[2025-03-27 20:37:55.895] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-03-27 20:37:56.069] [info] Bar configured (width: 1920, height: 38) for output: eDP-1
+[2025-03-27 20:38:43.072] [info] Using configuration file /home/mefedron/.config/waybar/config
+[2025-03-27 20:38:43.075] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-03-27 20:38:43.075] [info] Using CSS file /home/mefedron/.config/waybar/style.css
+[2025-03-27 20:38:43.086] [info] Hyprland IPC starting
+[2025-03-27 20:38:43.086] [info] Loading persistent workspaces from Waybar config
+[2025-03-27 20:38:43.086] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-03-27 20:38:43.257] [info] Bar configured (width: 1920, height: 36) for output: eDP-1
+
+(waybar:5246): LIBDBUSMENU-GLIB-WARNING **: 20:59:35.152: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:5246): LIBDBUSMENU-GLIB-WARNING **: 20:59:39.321: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:5246): LIBDBUSMENU-GLIB-WARNING **: 21:00:58.661: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:5246): LIBDBUSMENU-GLIB-WARNING **: 21:04:05.767: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:5246): LIBDBUSMENU-GLIB-WARNING **: 21:14:49.104: Unable to replace properties on 0: Error getting properties for ID
+[2025-03-27 21:14:50.802] [warning] Failed to update properties: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
